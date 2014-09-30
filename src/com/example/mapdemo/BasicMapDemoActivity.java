@@ -36,6 +36,8 @@ public class BasicMapDemoActivity extends FragmentActivity {
      */
     private GoogleMap mMap;
 
+    //20140930 test
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
